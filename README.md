@@ -24,3 +24,8 @@ Esse formulário foi feito com intenção, de um desafio da Rafaella.  Feito em 
 Javascript, HTML, CSS...
 
 
+### 📝 LICENSE
+
+<h4 align="center"> 
+	🚧  Todos os direitos reservados ©Copyright -® renanfranca...  🚧
+</h4>
